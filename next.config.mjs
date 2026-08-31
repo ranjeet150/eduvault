@@ -55,4 +55,4 @@ export default function config(phase) {
   }
 
   return nextConfig;
-}
+};
